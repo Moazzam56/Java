@@ -1,4 +1,4 @@
-public class EvenOddZero {
+public class IfElse2 {
     public static void main(String[] args) {
         int num = 0;
 
