@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoginCheckSimple {
+public class IfElseUserInput2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
