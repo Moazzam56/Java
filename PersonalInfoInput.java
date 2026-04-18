@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PersonalInfo {
+public class PersonalInfoInput {
 
     public static void main(String[] args) {
 
