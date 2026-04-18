@@ -1,4 +1,4 @@
-public class ReverseNumber {
+public class ReverseNumberUsingWhileLoop {
     public static void main(String[] args) {
 
         int num = 1234;
