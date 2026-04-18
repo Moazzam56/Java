@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DigitSum {
+public class WhileLoopUserInput1 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
