@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Factorial {
+public class FactorialUserInputForLoop {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
