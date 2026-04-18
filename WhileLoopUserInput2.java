@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Palindrome {
+public class WhileLoopUserInput2 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
