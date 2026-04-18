@@ -1,4 +1,4 @@
-public class FactorialWhile {
+public class FactorialUsingWhileLoop {
     public static void main(String[] args) {
 
         int num = 5;
