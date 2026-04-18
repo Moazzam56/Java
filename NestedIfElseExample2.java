@@ -1,4 +1,4 @@
-public class WeatherSystem {
+public class NestedIfElseExample2 {
     public static void main(String[] args) {
         int temperature = 35;
         boolean isRaining = false;
