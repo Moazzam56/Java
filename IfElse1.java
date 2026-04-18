@@ -1,4 +1,4 @@
-public class CheckNumber {
+public class IfElse1 {
     public static void main(String[] args) {
         int num = -5;
 
