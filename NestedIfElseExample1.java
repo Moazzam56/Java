@@ -1,4 +1,4 @@
-public class ScholarshipSystem {
+public class NestedIfElseExample1 {
     public static void main(String[] args) {
         int marks = 85;
         int attendance = 90;
