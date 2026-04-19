@@ -1,4 +1,7 @@
-public class NestedForLoop {
+public class RightTriangleNumberPattern {
+    
+    // This program prints a number pattern using nested for loops
+    
     public static void main(String[] args) {
 
         for (int i = 1; i <= 5; i++) {
