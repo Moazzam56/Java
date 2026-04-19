@@ -1,4 +1,7 @@
-public class NestedIfElseExample2 {
+public class WeatherConditionCheck {
+    
+    // This program checks weather conditions based on temperature and rain using nested if-else
+    
     public static void main(String[] args) {
         int temperature = 35;
         boolean isRaining = false;
