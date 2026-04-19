@@ -1,4 +1,7 @@
 public class NestedWhilePattern {
+    
+    // This program prints a star pattern using nested while loops
+    
     public static void main(String[] args) {
 
         int i = 1;   // outer loop (rows)
@@ -15,6 +18,5 @@ public class NestedWhilePattern {
             System.out.println();
             i++;
         }
-
     }
 }
