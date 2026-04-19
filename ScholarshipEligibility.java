@@ -1,4 +1,7 @@
-public class NestedIfElseExample1 {
+public class ScholarshipEligibility {
+    
+    // This program checks scholarship eligibility based on marks and attendance using nested if-else
+    
     public static void main(String[] args) {
         int marks = 85;
         int attendance = 90;
