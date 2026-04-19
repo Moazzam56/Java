@@ -1,4 +1,7 @@
-public class NestedDoWhilePattern {
+public class RightTrianglePattern {
+    
+    // This program prints a number pattern using nested do-while loops
+    
     public static void main(String[] args) {
         int i = 1;
 
