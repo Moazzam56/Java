@@ -15,7 +15,7 @@ class Car {
 
 // Main class 
 
-class Main {
+public class Main {
     public static void main(String[] args) {
 
         // Creating Car object
