@@ -1,4 +1,7 @@
-public class IfElse1 {
+public class PositiveNegativeCheck {
+    
+    // This program checks whether a number is positive or negative using if-else
+    
     public static void main(String[] args) {
         int num = -5;
 
