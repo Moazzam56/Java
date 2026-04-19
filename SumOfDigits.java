@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoopUserInput {
+public class SumOfDigits {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -9,7 +9,9 @@ public class ForLoopUserInput {
         int num = input.nextInt();
 
         int sum = 0;
-
+        
+        // using for loop
+        
         for (; num > 0; num = num / 10) {
             sum = sum + (num % 10);
         }
