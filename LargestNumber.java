@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-public class IfElseUserInput1 {
+public class LargestNumber {
+    
+    // This program finds the largest of two numbers using if-else conditions with user input
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -17,5 +20,7 @@ public class IfElseUserInput1 {
         } else {
             System.out.println("Both numbers are equal");
         }
+
+        input.close();
     }
 }
