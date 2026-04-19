@@ -1,4 +1,7 @@
-public class IfElse2 {
+public class NumberTypeCheck {
+    
+    // This program checks whether a number is zero, even, or odd using if-else
+    
     public static void main(String[] args) {
         int num = 0;
 
