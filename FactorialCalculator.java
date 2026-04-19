@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorialUserInputForLoop {
+public class FactorialCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -8,7 +8,9 @@ public class FactorialUserInputForLoop {
         int num = input.nextInt();
 
         long fact = 1;
-
+        
+       // using for loop
+        
         for (int i = 1; i <= num; i++) {
             fact = fact * i;
         }
