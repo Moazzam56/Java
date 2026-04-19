@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DoWhileUserInput1 {
+public class DigitAnalysis {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -10,7 +10,9 @@ public class DoWhileUserInput1 {
         int count = 0;
         int sum = 0;
         int temp = num;
-
+        
+     // using do-while loop
+     
         do {
             sum += temp % 10;
             temp = temp / 10;
