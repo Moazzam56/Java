@@ -1,9 +1,11 @@
-public class ReverseNumberUsingWhileLoop {
+public class ReverseNumber {
     public static void main(String[] args) {
 
         int num = 1234;
         int reverse = 0;
-
+        
+        // using while loop
+        
         while (num > 0) {
             int digit = num % 10;
             reverse = reverse * 10 + digit;
