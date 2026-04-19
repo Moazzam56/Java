@@ -1,4 +1,7 @@
-public class IfElse3 {
+public class GradeCalculator {
+    
+    // This program calculates grade based on marks using if-else ladder
+    
     public static void main(String[] args) {
         int marks = 85;
 
