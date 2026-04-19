@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class NestedIfElseUserInput2 {
+// This program checks loan eligibility based on salary and credit score using nested if-else
+
+public class LoanEligibilityCheck {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -23,5 +25,7 @@ public class NestedIfElseUserInput2 {
                 System.out.println("Loan Rejected");
             }
         }
+
+        input.close();
     }
 }
