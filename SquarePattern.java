@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class PatternNestedForLoopUserInput1 {
+// This program prints a square star pattern using nested for loops with user input
+
+public class SquarePattern {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -14,5 +16,7 @@ public class PatternNestedForLoopUserInput1 {
             }
             System.out.println();
         }
+
+        input.close();
     }
 }
