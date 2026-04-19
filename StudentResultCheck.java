@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class NestedIfElseUserInput1 {
+// This program evaluates student result based on marks and attendance using nested if-else
+
+public class StudentResultCheck {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -23,5 +25,7 @@ public class NestedIfElseUserInput1 {
                 System.out.println("Fail");
             }
         }
+
+        input.close();
     }
 }
