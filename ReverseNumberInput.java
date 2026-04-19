@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WhileLoopUserInput2 {
+public class ReverseNumberInput {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -10,7 +10,9 @@ public class WhileLoopUserInput2 {
 
         int original = num;
         int reverse = 0;
-
+        
+        // using while loop
+        
         while (num > 0) {
             int digit = num % 10;
             reverse = reverse * 10 + digit;
