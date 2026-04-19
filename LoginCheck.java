@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-public class IfElseUserInput2 {
+public class LoginCheck {
+    
+    // This program checks login credentials using if-else with user input
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -15,5 +18,7 @@ public class IfElseUserInput2 {
         } else {
             System.out.println("Login Failed");
         }
+
+        input.close();
     }
 }
