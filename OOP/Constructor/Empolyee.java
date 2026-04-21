@@ -4,7 +4,7 @@ class Employee {
     String dept;
     double salary;
 
-    // constructor
+    // parameterized constructor
   
     Employee(int i, String n, String d, double s) {
         id = i;
