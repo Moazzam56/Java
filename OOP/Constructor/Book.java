@@ -3,7 +3,7 @@ class Book {
     String title;
     double price;
 
-    // constructor
+    // parameterized constructor
   
     Book(int i, String t, double p) {
         id = i;
