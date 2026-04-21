@@ -5,7 +5,7 @@ class Car {
     double price;
     String color;
 
-    // constructor
+    // parameterized constructor
   
     Car(String b, String m, int y, double p, String c) {
         brand = b;
